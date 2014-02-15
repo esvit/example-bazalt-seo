@@ -1,0 +1,14 @@
+{
+    "name": "example-bazalt-seo",
+    "version": "0.0.0",
+    "devDependencies": {
+        "angular-scenario": "~1.2.11"
+    },
+    "dependencies": {
+        "bazalt": "*",
+        "bootstrap": "~3.0.0",
+        "requirejs": "*",
+        "bz.seo": "*",
+        "angular-social": "~0.1.1"
+    }
+}
